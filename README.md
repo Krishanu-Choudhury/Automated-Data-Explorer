@@ -100,6 +100,10 @@ streamlit run app.py
 ```
 (Make sure app.py is the name of your main file.)
 
+## 📊 Direct Link to the App
+Access the app directly from here: [Automated Data Explorer](https://automated-data-explorer-collaboration.streamlit.app/)
+
+
 
 
 
